@@ -1,0 +1,12 @@
+{
+  "name": "sample-js-cloud-app",
+  "version": "1.0.0",
+  "description": "Simple JavaScript web application for cloud deployment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
